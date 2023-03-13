@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GreenHD-hash
 - 👀 I’m interested in Server
 - 🌱 I’m currently learning Python
-- 📫 How to reach me GreenHD@game.com
+- 📫 How to reach me jasper@jaspergese.de
 
 <!---
 GreenHD-hash/GreenHD-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
