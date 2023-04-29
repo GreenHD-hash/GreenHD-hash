@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GreenHD-hash
-- 👀 I’m interested in Server
-- 🌱 I’m currently learning C++/HTML/CSS
+- 🌱 I’m currently learning C++/HTML/CSS/JS
 - 📫 How to reach me jasper@jaspergese.de
 
 <!---
