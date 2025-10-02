@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GreenHD-hash
-- 📫 How to reach me jasper@jaspergese.de
 
 <!---
 GreenHD-hash/GreenHD-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
